@@ -1,5 +1,6 @@
 <template>
     <v-btn icon="mdi-vuetify">
-        Button
+        
     </v-btn>
+    <v-icon icon="mdi-home" />
 </template>
